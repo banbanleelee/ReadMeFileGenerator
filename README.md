@@ -1,15 +1,16 @@
-# good project
+# Readme File Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
 ### Motivation
-1
+To make a semi-automated application to create professional readme.md file for new projects.
 
 ### Problem Solved
-1
+Enhances efficiency.
 
 ### Learnings
-1
+Node.js.
 
 
 ## Table of Contents
@@ -24,34 +25,33 @@
 
 ## Installation
 
-1
+Download the repository and run with Node.js environment.
 
 ## Usage
-
+ ![alt text](placeholder.jpg)
     ```md
-    ![alt text](1)
-    1
+    Users need to input a few pieces of information to make a complete file.
     ```
 
 ## Credits
 
-1
-1
+Sally Zhang
+https://github.com/banbanleelee/ReadMeFileGenerator
 
 ## License
 
-Apache
+MIT
 
 ## Features
 
-something
+This is a simple application, nothing complicated, but can be reused.
 
 ## Contribution
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-Contact method: @
+Contact method: sallyyixuanzhang@gmail.com
 
 ## Tests
 
-blabla
+Download and try it out.

@@ -28,11 +28,10 @@
 {installation}
 
 ## Usage
-
-    ```md
-    ![alt text]({imageSource})
-    {usage}
-    ```
+![alt text]({imageSource})
+```md
+{usage}
+```
 
 ## Credits
 
