@@ -1,15 +1,16 @@
-# good project
+# {title}
+{licenseBadge}
 
 ## Description
 
 ### Motivation
-1
+{motivation}
 
 ### Problem Solved
-1
+{problemSolved}
 
 ### Learnings
-1
+{learnings}
 
 
 ## Table of Contents
@@ -24,34 +25,34 @@
 
 ## Installation
 
-1
+{installation}
 
 ## Usage
 
     ```md
-    ![alt text](1)
-    1
+    ![alt text]({imageSource})
+    {usage}
     ```
 
 ## Credits
 
-1
-1
+{collaboratorName}
+{collaboratorLink}
 
 ## License
 
-Apache
+{license}
 
 ## Features
 
-something
+{features}
 
 ## Contribution
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
-Contact method: @
+Contact method: {contributionEmail}
 
 ## Tests
 
-blabla
+{test}
